@@ -6,8 +6,12 @@ table{
             padding: 1px;
             spacing: 1px;
 	width:100px;
-	
 }
+td {
+    border: 1px solid black;
+    padding: 1px;
+}
+
 h1{
 	text-align: center;
 }
